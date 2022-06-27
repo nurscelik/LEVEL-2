@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <employee>
+    <ID>455094</ID>
+    <LastName>Kelly</LastName>
+    <FirstName>Grace</FirstName>
+    <HireDate>26.05.2015 00:00:00</HireDate>
+  </employee>
+  <employee>
+    <ID>313</ID>
+    <LastName>çelik</LastName>
+    <FirstName>nurşen</FirstName>
+    <HireDate>19.09.1998 00:00:00</HireDate>
+  </employee>
+  <employee>
+    <ID>339</ID>
+    <LastName>yılmaz</LastName>
+    <FirstName>dursun</FirstName>
+    <HireDate>26.10.1999 00:00:00</HireDate>
+  </employee>
+  <employee>
+    <ID>21</ID>
+    <LastName>çekiç</LastName>
+    <FirstName>salih</FirstName>
+    <HireDate>12.12.1997 00:00:00</HireDate>
+  </employee>
+</ArrayOfEmployee>

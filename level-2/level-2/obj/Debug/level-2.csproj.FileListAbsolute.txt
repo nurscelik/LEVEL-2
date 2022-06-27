@@ -1,0 +1,12 @@
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\bin\Debug\level-2.exe.config
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\bin\Debug\level-2.exe
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\bin\Debug\level-2.pdb
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level-2.csproj.AssemblyReference.cache
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level_2.loginform.resources
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level_2.Properties.Resources.resources
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level-2.csproj.GenerateResource.cache
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level-2.csproj.CoreCompileInputs.cache
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level-2.exe
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level-2.pdb
+C:\Users\nurse\OneDrive\Masaüstü\level-2\level-2\obj\Debug\level_2.veri.resources
